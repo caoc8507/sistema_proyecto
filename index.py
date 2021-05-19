@@ -15,7 +15,7 @@ app.config['MYSQL_DB'] = 'bonnnebwnn4sjw9twogv'
 """
 app.config['MYSQL_HOST']='localhost'
 app.config['MYSQL_USER']='root'
-app.config['MYSQL_PASSWORD']='usuario1'
+app.config['MYSQL_PASSWORD']='C0n3j1t4'
 app.config['MYSQL_DB']='proyecto_SistemaYRedes'
 mysql = MySQL(app)
 
