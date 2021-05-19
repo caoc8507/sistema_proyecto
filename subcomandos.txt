@@ -1,0 +1,24 @@
+Daniel Tisoy23:25
+source el_nombre
+;
+Daniel Tisoy23:30
+source base_datos_SI;
+Daniel Tisoy23:31
+source base_datos_SI.sql;
+show databases;
+Daniel Tisoy23:32
+exit;
+python index.py
+virtualenv venv
+Daniel Tisoy23:33
+venv\Script\activate.bat
+venv\Scripts\activate.bat
+Daniel Tisoy23:35
+git checkout -b version_andres
+git branch
+Daniel Tisoy23:36
+pip install -r requirements.txt
+python index.py
+Daniel Tisoy23:50
+venv\Scripts\activate.bat
+python index.py
